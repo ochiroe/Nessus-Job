@@ -1,5 +1,5 @@
 # Nessus-Job
-Automated Nessus scans with E-mail Report
+Automated Nessus scans with E-mail Report & Web Report
 
 # Requirements
 
